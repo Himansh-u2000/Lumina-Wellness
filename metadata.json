@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Wellness",
+  "description": "A comprehensive mental health companion app featuring mood tracking, AI therapy chat, professional therapist booking, and wellness progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
